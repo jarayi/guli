@@ -1,0 +1,9 @@
+# Project exclude paths
+/common/common_utils/target/
+/common/service_base/target/
+/service/service_cms/target/
+/service/service_edu/target/
+/service/service_order/target/
+/service/service_ucenter/target/
+/service/service_vod/target/
+/service/service_wxlogin/target/
