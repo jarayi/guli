@@ -27,10 +27,6 @@ public class TPayLogController {
 @Autowired
     private TPayLogService payLogService;
 
-
-
-
-
     @ApiOperation(value = "生成二维码")
     @GetMapping("/createNative/{orderNo}")
     public R creatNative(@PathVariable String orderNo){

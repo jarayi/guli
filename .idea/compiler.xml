@@ -7,15 +7,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="service_ucenter" />
         <module name="service_sms" />
         <module name="service_wxlogin" />
         <module name="service_oss" />
         <module name="service_base" />
         <module name="service_order" />
         <module name="common_utils" />
-        <module name="service_edu" />
         <module name="service_vod" />
-        <module name="service_ucenter" />
+        <module name="service_edu" />
         <module name="service_cms" />
       </profile>
     </annotationProcessing>
